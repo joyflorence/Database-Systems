@@ -4,8 +4,8 @@
 hospital-management-system-db/
 │
 ├── database/
-│   ├── hospital_system_2025-12-08_165102.sql  # Your SQL dump file
-│   └── schema_diagram.png                     # ER diagram (optional)
+│   ├── hospital_system_2025-12-08_165102.sql  
+│   └── schema_diagram.png                     
 
 ```
 
